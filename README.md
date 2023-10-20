@@ -1,5 +1,5 @@
 # substack-blog
-Archives of my experiment blogging on Substack.
+Archives of Substack blogs, in Markdown.
 
 All in Markdown so can be viewed directly through Github.
 
